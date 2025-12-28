@@ -9,8 +9,8 @@
     <!-- Package metadata -->
     <Authors>OnlineMenu Contributors</Authors>
     <Company>OnlineMenu</Company>
-    <PackageProjectUrl>https://github.com/yourusername/OtpAuthentication</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/yourusername/OtpAuthentication</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/openmindednewby/OtpAuthentication</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/openmindednewby/OtpAuthentication</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
@@ -19,9 +19,9 @@
     <Description>Database-backed One-Time Password (OTP) authentication with Entity Framework Core</Description>
 
     <!-- Versioning -->
-    <Version>1.0.0</Version>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <FileVersion>1.0.0.0</FileVersion>
+    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
 
     <!-- NuGet settings -->
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
