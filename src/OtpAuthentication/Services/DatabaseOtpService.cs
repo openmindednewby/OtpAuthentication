@@ -1,7 +1,7 @@
 using System.Security.Cryptography;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
-using OnlineMenu.Identity.Abstractions.Abstractions;
+using Identity.Abstractions.Abstractions;
 using OtpAuthentication.Data;
 using OtpAuthentication.Entities;
 

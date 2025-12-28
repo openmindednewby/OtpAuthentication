@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using OnlineMenu.Identity.Abstractions.Abstractions;
+using Identity.Abstractions.Abstractions;
 using OtpAuthentication.Data;
 using OtpAuthentication.Services;
 

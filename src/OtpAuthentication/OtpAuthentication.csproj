@@ -1,13 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <RootNamespace>OnlineMenu.OtpAuthentication</RootNamespace>
-    <PackageId>OnlineMenu.OtpAuthentication</PackageId>
+    <RootNamespace>OtpAuthentication</RootNamespace>
+    <PackageId>OtpAuthentication</PackageId>
     <Description>Database-backed OTP authentication with Entity Framework Core. Includes OTP generation, storage, validation, and cleanup with rate limiting.</Description>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OnlineMenu.Identity.Abstractions\OnlineMenu.Identity.Abstractions.csproj" />
+    <PackageReference Include="Identity.Abstractions" Version="1.0.0" />
   </ItemGroup>
 
   <ItemGroup>
