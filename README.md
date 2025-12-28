@@ -1,6 +1,6 @@
-# OnlineMenu.OtpAuthentication
+# OtpAuthentication
 
-[![NuGet](https://img.shields.io/nuget/v/OnlineMenu.OtpAuthentication.svg)](https://www.nuget.org/packages/OnlineMenu.OtpAuthentication)
+[![NuGet](https://img.shields.io/nuget/v/OtpAuthentication.svg)](https://www.nuget.org/packages/OtpAuthentication)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Database-backed One-Time Password (OTP) authentication with Entity Framework Core
@@ -8,7 +8,7 @@ Database-backed One-Time Password (OTP) authentication with Entity Framework Cor
 ## Installation
 
 ```bash
-dotnet add package OnlineMenu.OtpAuthentication
+dotnet add package OtpAuthentication
 ```
 
 ## Description
@@ -17,7 +17,7 @@ Database-backed One-Time Password (OTP) authentication with Entity Framework Cor
 
 ## Documentation
 
-See the [NuGet package page](https://www.nuget.org/packages/OnlineMenu.OtpAuthentication) for full documentation.
+See the [NuGet package page](https://www.nuget.org/packages/OtpAuthentication) for full documentation.
 
 ## Contributing
 
@@ -35,5 +35,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- Issues: [GitHub Issues](https://github.com/yourusername/OnlineMenu.OtpAuthentication/issues)
-- Discussions: [GitHub Discussions](https://github.com/yourusername/OnlineMenu.OtpAuthentication/discussions)
+- Issues: [GitHub Issues](https://github.com/yourusername/OtpAuthentication/issues)
+- Discussions: [GitHub Discussions](https://github.com/yourusername/OtpAuthentication/discussions)

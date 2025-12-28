@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace OnlineMenu.OtpAuthentication.Entities;
+namespace OtpAuthentication.Entities;
 
 /// <summary>
 /// Entity for storing OTP codes with automatic expiry and security features.

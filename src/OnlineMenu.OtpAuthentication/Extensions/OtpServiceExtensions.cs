@@ -1,10 +1,10 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using OnlineMenu.Identity.Abstractions.Abstractions;
-using OnlineMenu.OtpAuthentication.Data;
-using OnlineMenu.OtpAuthentication.Services;
+using OtpAuthentication.Data;
+using OtpAuthentication.Services;
 
-namespace OnlineMenu.OtpAuthentication.Extensions;
+namespace OtpAuthentication.Extensions;
 
 /// <summary>
 /// Extension methods for registering OTP authentication services.

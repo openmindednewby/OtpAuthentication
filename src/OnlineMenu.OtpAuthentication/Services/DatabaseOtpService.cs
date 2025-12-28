@@ -2,10 +2,10 @@ using System.Security.Cryptography;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using OnlineMenu.Identity.Abstractions.Abstractions;
-using OnlineMenu.OtpAuthentication.Data;
-using OnlineMenu.OtpAuthentication.Entities;
+using OtpAuthentication.Data;
+using OtpAuthentication.Entities;
 
-namespace OnlineMenu.OtpAuthentication.Services;
+namespace OtpAuthentication.Services;
 
 /// <summary>
 /// Database-backed OTP service implementation with Entity Framework Core.

@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using OnlineMenu.OtpAuthentication.Entities;
+using OtpAuthentication.Entities;
 
-namespace OnlineMenu.OtpAuthentication.Data;
+namespace OtpAuthentication.Data;
 
 /// <summary>
 /// Database context for OTP authentication.
